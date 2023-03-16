@@ -13,3 +13,14 @@ Rhythm Game
 游戏界面2
 ![Game2](https://user-images.githubusercontent.com/59986966/222938513-f8f7773c-68f0-47d7-a216-63752531cdb0.png)
 
+歌曲列表1
+![Menu1](https://user-images.githubusercontent.com/59986966/225681096-c3cd11ee-ac34-4ea4-9e34-26c41a07bfbb.png)
+
+歌曲列表2
+![Menu2](https://user-images.githubusercontent.com/59986966/225681182-943314d9-d07e-45a3-9a80-1eec27752676.png)
+
+商店界面
+![Shop](https://user-images.githubusercontent.com/59986966/225681227-ae7ff357-dc2a-4d6e-bf7e-0e54f1d85d0e.png)
+
+设置界面
+![Setting](https://user-images.githubusercontent.com/59986966/225681306-71a395ce-26de-4681-b165-dfc4d6974ab8.png)
